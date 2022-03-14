@@ -1,5 +1,8 @@
 # Weather app (console-based)
 
+
+Usage:
+
 ```
 node app.js Kyiv
 ```
